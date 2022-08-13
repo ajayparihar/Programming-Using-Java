@@ -1,4 +1,4 @@
-package constructors.swiftFood;
+package oops.constructors.swiftFood;
 
 public class Restaurant {
 
@@ -6,6 +6,7 @@ public class Restaurant {
     public long restaurantContact;
     public String restaurantAddress;
     public float rating;
+
 
     public Restaurant(String restName, long restContact, String restAddress, float rating) {
         this.restaurantName = restName;

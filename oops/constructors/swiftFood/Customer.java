@@ -1,4 +1,4 @@
-package constructors.swiftFood;
+package oops.constructors.swiftFood;
 
 class Customer {
     public String customerId;
